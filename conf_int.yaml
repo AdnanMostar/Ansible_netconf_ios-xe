@@ -1,6 +1,6 @@
 ---
 - name: Add interface to IOSXE
-  hosts: iosxe
+  hosts: xr-sandbox
   connection: local
   gather_facts: False
 
