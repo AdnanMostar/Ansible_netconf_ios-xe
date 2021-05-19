@@ -1,0 +1,6 @@
+##ovo na Linux
+sudo apt install python-pip
+pip install ncclient
+#Ovo dole na IOSXE ruterima
+R1(config)#netconf-yang
+R1(config)#username cisco privilege 15 secret cisco
